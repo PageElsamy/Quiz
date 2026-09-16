@@ -1,0 +1,11 @@
+Soal :
+1. Konsep Dart apa yang paling mudah dipahami?
+2. Konsep apa yang masih mengalami kesulitan?
+3. Kesalahan program apa yang paling sering ditemukan?
+4. Bagaimana penggunaan function dan OOP membantu membuat program lebih terstruktur?
+
+Jawaban :
+1. konsep yang paling mudah dipahami ada pada bagian 
+2. penerapan polymorphism dan penerapan if else dengan map masih membuat saya kesulitan karena selalu eror
+3. kesalahan logika dan pengetikan huruf (entah itu typo atau ukuran huruf)
+4. function mempermudah logika menjadikan logika tidak berulang, dan OOP mempermudah untuk mengelompokan tipe data 
